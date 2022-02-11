@@ -24,9 +24,13 @@ The labels folder is included two subfolders called train2014 and val2014 with
 82081 and 40137 text files, respectively. These text files contain the bounding box coordinates of the objects in the images with [ID, xc, yc, w, h] format.
 
 ID: the object ID
+
 xc: the centroid coordinates
+
 yc: the centroid coordinates
+
 w: width of the bounding box
+
 h: height of the bounding box
 
 List of images that will be used to train the model is in the trainvalno5k.txt file and List of images that will be used for validation the model is in the 5k.txt file
