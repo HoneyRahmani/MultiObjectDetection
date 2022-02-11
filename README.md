@@ -28,6 +28,7 @@ xc: the centroid coordinates
 yc: the centroid coordinates
 w: width of the bounding box
 h: height of the bounding box
+
 List of images that will be used to train the model is in the trainvalno5k.txt file and List of images that will be used for validation the model is in the 5k.txt file
 
 ## Built with
