@@ -1,6 +1,6 @@
 
 ## Table of Content
-> * [Single Object Detection - Fovea Location Detection - Pytorch](#SingleObjectDetection-FoveaLocationDetection-Pytorch)
+> * [Multi Object Detection - Pytorch](#MultiObjectDetection-Pytorch)
 >   * [About the Project](#AbouttheProject)
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
