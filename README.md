@@ -5,6 +5,7 @@
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
 >   * [Installation](#Installation)
+>   * [Examples](#Examples)
 
 # Multi Object Detection - Pytorch
 ## About the Project
@@ -50,3 +51,7 @@ The binary cross-entropy is used to calculate loss of class predictions.
 
 ## Installation
     •	conda install pytorch torchvision cudatoolkit=coda version -c pytorch
+    
+## Examples
+
+![mod](https://user-images.githubusercontent.com/75105778/153681710-63460fbb-c269-4d37-9a22-06d1f81de55e.png)
